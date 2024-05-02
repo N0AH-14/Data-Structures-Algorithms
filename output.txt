@@ -1,0 +1,16 @@
+Given Array
+13 46 24 20 9 
+Insertion Sort
+9 13 20 24 46 
+Given Array
+12 55 99 66 44 32 59 84 2 
+Insertion Sort
+2 12 32 44 55 59 66 84 99 
+Given Array
+9 2 
+Insertion Sort
+2 9 
+Given Array
+9 
+Insertion Sort
+9 
