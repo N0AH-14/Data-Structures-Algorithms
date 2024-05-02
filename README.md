@@ -21,7 +21,8 @@ In this repository, you'll find:
 
 ## Folder Structure
 
-<ul><li>/problems # Solutions to DSA problems</li><li>/implementations # Implementations of DSA concepts</li></ul>
+- **/problems:** Solutions to DSA problems.
+- **/implementations:** Implementations of DSA concepts.
 
 ## Usage
 
