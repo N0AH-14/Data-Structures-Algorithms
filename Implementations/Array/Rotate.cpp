@@ -16,8 +16,8 @@ int gcd(int a, int b)
 }
 void leftRotate(int arr[], int d, int n)
 {
-    d = d % n;
-    int GCD = gcd(d, n);
+    d = d % n;	//to keep "D" in limit
+    int GCD = gcd(d, n);	//No. of sets
     for (int i = 0; i < GCD; i++)
     {
         int temp = arr[i];
@@ -42,14 +42,14 @@ void leftRotate(int arr[], int d, int n)
 int main()
 {
     int n, d;
-    // cin>>n;
-    int arr[6];
+    cin>>n;
+    int arr[n];
     for (auto &val : arr)
     {
         cin >> val;
     }
-    // cin>>d;
-    leftRotate(arr, 4, 6);
+    cin>>d;
+    leftRotate(arr, d,n);
     for (auto &val : arr)
     {
         cout << val << "\t";
