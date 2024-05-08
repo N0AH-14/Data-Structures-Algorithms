@@ -47,6 +47,7 @@ You can find me on various platforms:
 - [LinkedIn](https://www.linkedin.com/in/n0ah14/)
 - [LeetCode](https://leetcode.com/u/krishnajodha0147/)
 - [CodeChef](https://www.codechef.com/users/noah_14)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/noah__14/)
 - [GitHub](https://github.com/N0AH-14)
 
 Feel free to connect with me on any of these platforms! I'm always open to networking and collaboration.
