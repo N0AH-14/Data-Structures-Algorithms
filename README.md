@@ -29,7 +29,7 @@ In this repository, you'll find:
 Feel free to explore this repository to enhance your understanding of DSA. You can clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/N0AH-14/Data-Structures---Algorithms.git
+git clone https://github.com/N0AH-14/Data-Structures-Algorithms.git
 ```
 Navigate through the respective folders to access solutions, implementations, and notes.
 
@@ -38,7 +38,7 @@ Contributions are highly appreciated! If you identify any issues or wish to cont
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/N0AH-14/Data-Structures---Algorithms/blob/main/LICENSE). You are free to use, modify, and distribute the contents of this repository for personal and commercial purposes. However, you must include the original copyright and license notice in any copy of the software and ensure that any derivative works are also licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/N0AH-14/Data-Structures-Algorithms/blob/main/LICENSE). You are free to use, modify, and distribute the contents of this repository for personal and commercial purposes. However, you must include the original copyright and license notice in any copy of the software and ensure that any derivative works are also licensed under the MIT License.
 
 ## Connect with Me
 
