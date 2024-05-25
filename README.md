@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains solutions to various DSA problems, along with implementations of key DSA concepts and theories that I've studied.
+Welcome to my Data Structures and Algorithms (DSA) repository! This repository contains solutions to various DSA problems, along with implementations of key DSA concepts and theories that I've studied so far.
 
 ## Table of Contents
 
