@@ -1,5 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
+int speedUp=[](){
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    return 0;
+}();
 void selectionSort(vector<int> &arr, int l, int r)
 {
     int min = 0, temp;
